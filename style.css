@@ -46,6 +46,16 @@ body {
         color:black
     }
 
+.navlist a:hover {
+        color: #fff;
+    }
+
+
+    .navlist li:hover {
+        background-color: #A8BAC3;
+        transform:rotate(30);
+    }
+
 /* Mainheader part ends */
 
 
